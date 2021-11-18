@@ -34,22 +34,41 @@ you want more practical tutorials? In both cases, these are the site to keep an 
 
 - [Netptune.ai Blog](https://neptune.ai/blog)
 - [Weights & Biases Blog](https://wandb.ai/fully-connected)
-- [HuggingFace Blog](https://huggingface.co/blog)
 - [ClearML Blog](https://clear.ml/blog/)
-- [Humanloop blog](https://humanloop.com/blog)
+- [HuggingFace Blog](https://huggingface.co/blog)
 - [Algorithmia - The enterprise MLOps blog](https://algorithmia.com/blog)
-- [Alectio Blog](http://alectio.com/blog/)
-- [Kili Technology Blog](https://kili-technology.com/blog/)
-- [Scale AI Blog](https://scale.com/blog)
-- [Snorkel AI Blog](https://snorkel.ai/resources/blog/)
 - [OctoML Blog](https://octoml.ai/blog/)
 - [DVC Blog](https://dvc.org/blog)
 - [CometML Blog](https://www.comet.ml/site/blog/)
-- [Roboglow Blog](https://blog.roboflow.com/)
-- [V7 Blog](https://www.v7labs.com/blog)
+- [Roboflow Blog](https://blog.roboflow.com/)
 - [Floydhub Blog](https://blog.floydhub.com/)
 - [Dataiku Blog](https://blog.dataiku.com/)
 - [H2O.ai Blog](https://www.h2o.ai/blog/)
+- [Superwise.ai Blog](https://www.superwise.ai/resources/blog)
+
+
+## Data Labelling and Curation Platforms
+
+- [V7 Blog](https://www.v7labs.com/blog)
+- [Scale AI Blog](https://scale.com/blog)
+- [Snorkel AI Blog](https://snorkel.ai/resources/blog/)
+- [SuperAnnotate Blog](https://blog.superannotate.com/)
+- [Sama Blog](https://www.sama.com/blog)
+- [Playment Blog](https://www.playment.io/blog)
+- [Cord.tech Blog](https://cord.tech/blog)
+- [Dataloop Blog](https://dataloop.ai/blog/)
+- [Superb AI blog](https://www.superb-ai.com/blog)
+- [annotell Blog](https://www.annotell.com/articles)
+- [iMerit Blog](https://imerit.net/blog/)
+- [Kili Technology Blog](https://kili-technology.com/blog/)
+- [LabelStudio](https://labelstud.io/blog/)
+- [LabelBox Blog](https://labelbox.com/blog/)
+- [Understand.ai Blog](https://understand.ai/)
+- [Lightly.ai Blog](https://www.lightly.ai/blog)
+- [Alectio Blog](http://alectio.com/blog/)
+- [Aquarium Learning Blog](https://medium.com/aquarium-learning)
+- [Siasearch Blog](https://www.siasearch.io/)
+- [Humanloop blog](https://humanloop.com/blog)
 
 
 ## Universities
@@ -78,10 +97,18 @@ you want more practical tutorials? In both cases, these are the site to keep an 
 - [FastML](http://fastml.com/)
 
 
+## Synthetic Data
+
+- [parallel domain Blog](https://paralleldomain.com/blog/)
+- [Anyverse Blog](https://anyverse.ai/blog/)
+- [Datagen Blog](https://www.datagen.tech/blog/)
+
+
 ## Extra
 
-- [Distill](https://distill.pub/) - No longer updated
+- [Distill](https://distill.pub/) - Research Publications. No longer updated
 - [Kaggle Blog](https://medium.com/kaggle-blog)
+- [Brighter.ai Blog](https://brighter.ai/resources-types/blog/) - Data anonymization
 
 
 # Contributing
