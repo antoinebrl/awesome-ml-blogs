@@ -89,6 +89,7 @@ you want more practical tutorials? In both cases, these are the site to keep an 
 ## Personal Blogs
 
 - [Sebastian Ruder](https://ruder.io/)
+- [Lil'Log](https://lilianweng.github.io/lil-log/)
 - [inFERENCe](https://www.inference.vc/)
 - [Jay Alammar](https://jalammar.github.io/)
 - [Eugene Yan](https://eugeneyan.com/writing/)
