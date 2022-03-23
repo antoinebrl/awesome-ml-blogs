@@ -50,7 +50,7 @@ you want more practical tutorials? In both cases, these are the site to keep an 
 ## Data Labelling and Curation Platforms
 
 - [V7 Blog](https://www.v7labs.com/blog)
-- [Scale AI Blog](https://scale.com/blog)
+- [Scale AI Blog (corporate)](https://scale.com/blog)
 - [Snorkel AI Blog](https://snorkel.ai/resources/blog/)
 - [SuperAnnotate Blog](https://blog.superannotate.com/)
 - [Sama Blog](https://www.sama.com/blog)
@@ -81,6 +81,7 @@ you want more practical tutorials? In both cases, these are the site to keep an 
 
 ## Community Content
 
+- [Scale AI Exchange Blog](https://exchange.scale.com/public/blogs)
 - [KDNugget](https://www.kdnuggets.com/news/index.html)
 - [Towards Data Science](https://towardsdatascience.com/)
 - [Machine Learning Mastery](https://machinelearningmastery.com/blog/)
