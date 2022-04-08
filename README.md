@@ -71,6 +71,11 @@ you want more practical tutorials? In both cases, these are the site to keep an 
 - [Humanloop blog](https://humanloop.com/blog)
 
 
+## Vector Databases
+- [Milvius Engineering](https://milvus.io/blog?#engineering)
+- [Vespa Blog](https://blog.vespa.ai/)
+
+
 ## Universities
 
 - [Machine Learning at Berkeley](https://ml.berkeley.edu/blog/)
