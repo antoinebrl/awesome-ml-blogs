@@ -1,0 +1,41 @@
+# Taken from https://github.com/Vinnl/feeds/blob/main/.github/workflows/pages.yml
+name: Publish RSS feeds to GitHub 
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    # Run every day at 8:27 and 16:27:
+    - cron:  '27 8,16 * * *'
+  workflow_dispatch:
+
+env:
+  CI: true
+jobs:
+  publish-feeds:
+    runs-on: ubuntu-20.04
+    timeout-minutes: 30
+    steps:
+    - uses: actions/checkout@v2.3.4
+    - uses: microsoft/playwright-github-action@v1
+    # GitHub Actions unfortunately does not support retries;
+    # this is a cumbersome method of retrying twice in case of errors:
+    - run: npx feed-me-up-scotty || npx feed-me-up-scotty || npx feed-me-up-scotty
+    - name: Deploy to GitHub Pages
+      run: |
+        git config user.name $GITHUB_ACTOR
+        git config user.email $GITHUB_ACTOR@users.noreply.github.com
+        git remote add gh-pages-remote https://x-access-token:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git
+        git fetch --no-recurse-submodules
+        git worktree add ./gh-pages gh-pages
+        cd gh-pages
+        git rm -r .
+        cp -r ../public ml-blog-feeds
+        git add .
+        git commit --message="Deploying to GitHub Pages from $GITHUB_SHA"
+        git push gh-pages-remote gh-pages:gh-pages
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_REPOSITORY: ${{ github.repository }}
