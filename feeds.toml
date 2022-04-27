@@ -7,3 +7,32 @@ linkSelector = "a"
 contentSelector = "a"
 dateSelector = "time"
 dateFormat = "EEEE, d MMMM yyyy"
+
+[apple-ai]
+title = "Apple Machine Learning"
+url = "https://machinelearning.apple.com/research?type=article"
+entrySelector = ".post-row"
+titleSelector = "h3 > a"
+linkSelector = "h3 > a"
+contentSelector = "h3 > a"
+matchOneOf = "Article"
+
+[unity-ai]
+title = "Unity Blog AI"
+url = "https://blog.unity.com/topic/ai"
+entrySelector = ".border-b"
+titleSelector = ".text-lg"
+linkSelector = ".relative > a"
+contentSelector = "#-txt-postCard"
+dateSelector = ".text-gray.leading-6"
+dateFormat = "MMMM d, yyyy"
+
+[unity-ml]
+title = "Unity Blog ML"
+url = "https://blog.unity.com/topic/machine-learning"
+entrySelector = ".border-b"
+titleSelector = ".text-lg"
+linkSelector = ".relative > a"
+contentSelector = "#-txt-postCard"
+dateSelector = ".text-gray.leading-6"
+dateFormat = "MMMM d, yyyy"
