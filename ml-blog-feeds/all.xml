@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://antoinebrl.github.io/awesome-ml-blogs/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-27T17:01:48.769Z</updated>
+    <updated>2022-04-27T17:35:55.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Graph machine learning with missing node features (Twitter Engineering Insights)]]></title>
