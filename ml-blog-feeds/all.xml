@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://antoinebrl.github.io/awesome-ml-blogs/all.xml</id>
+    <title>Combined feed</title>
+    <updated>2022-04-27T14:09:12.231Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Graph machine learning with missing node features (Twitter Engineering Insights)]]></title>
+        <id>https://blog.twitter.com/engineering/en_us/topics/insights/2022/graph-machine-learning-with-missing-node-features</id>
+        <link href="https://blog.twitter.com/engineering/en_us/topics/insights/2022/graph-machine-learning-with-missing-node-features"/>
+        <updated>2022-03-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Graph machine learning with missing node features]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next generation data insights using natural language queries (Twitter Engineering Insights)]]></title>
+        <id>https://blog.twitter.com/engineering/en_us/topics/insights/2022/next-generation-data-insights-using-natural-language-queries</id>
+        <link href="https://blog.twitter.com/engineering/en_us/topics/insights/2022/next-generation-data-insights-using-natural-language-queries"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Next generation data insights using natural language queries]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Investing in privacy enhancing tech to advance transparency in ML (Twitter Engineering Insights)]]></title>
+        <id>https://blog.twitter.com/engineering/en_us/topics/insights/2022/investing-in-privacy-enhancing-tech-to-advance-transparency-in-ML</id>
+        <link href="https://blog.twitter.com/engineering/en_us/topics/insights/2022/investing-in-privacy-enhancing-tech-to-advance-transparency-in-ML"/>
+        <updated>2022-01-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Investing in privacy enhancing tech to advance transparency in ML]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Model-based candidate generation for account recommendations (Twitter Engineering Insights)]]></title>
+        <id>https://blog.twitter.com/engineering/en_us/topics/insights/2022/model-based-candidate-generation-for-account-recommendations</id>
+        <link href="https://blog.twitter.com/engineering/en_us/topics/insights/2022/model-based-candidate-generation-for-account-recommendations"/>
+        <updated>2022-01-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Model-based candidate generation for account recommendations]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A hybrid approach to personalize notification volume (Twitter Engineering Insights)]]></title>
+        <id>https://blog.twitter.com/engineering/en_us/topics/insights/2022/a-hybrid-approach-to-personalize-notification-volume</id>
+        <link href="https://blog.twitter.com/engineering/en_us/topics/insights/2022/a-hybrid-approach-to-personalize-notification-volume"/>
+        <updated>2022-01-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[A hybrid approach to personalize notification volume]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNNs through the lens of differential geometry and algebraic topology (Twitter Engineering Insights)]]></title>
+        <id>https://blog.twitter.com/engineering/en_us/topics/insights/2021/graph-neural-networks-through-the-lens-of-differential-geometry-</id>
+        <link href="https://blog.twitter.com/engineering/en_us/topics/insights/2021/graph-neural-networks-through-the-lens-of-differential-geometry-"/>
+        <updated>2021-12-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[GNNs through the lens of differential geometry and algebraic topology]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speeding up Transformer CPU inference in Google Cloud (Twitter Engineering Insights)]]></title>
+        <id>https://blog.twitter.com/engineering/en_us/topics/insights/2021/speeding-up-transformer-cpu-inference-in-google-cloud</id>
+        <link href="https://blog.twitter.com/engineering/en_us/topics/insights/2021/speeding-up-transformer-cpu-inference-in-google-cloud"/>
+        <updated>2021-11-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Speeding up Transformer CPU inference in Google Cloud]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forecasting SQL query resource usage with machine learning (Twitter Engineering Insights)]]></title>
+        <id>https://blog.twitter.com/engineering/en_us/topics/insights/2021/forecasting-sql-query-resource-usage-with-machine-learning</id>
+        <link href="https://blog.twitter.com/engineering/en_us/topics/insights/2021/forecasting-sql-query-resource-usage-with-machine-learning"/>
+        <updated>2021-11-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Forecasting SQL query resource usage with machine learning]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How we rolled out security keys at Twitter (Twitter Engineering Insights)]]></title>
+        <id>https://blog.twitter.com/engineering/en_us/topics/insights/2021/how-we-rolled-out-security-keys-at-twitter</id>
+        <link href="https://blog.twitter.com/engineering/en_us/topics/insights/2021/how-we-rolled-out-security-keys-at-twitter"/>
+        <updated>2021-10-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[How we rolled out security keys at Twitter]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sharing learnings from the first algorithmic bias bounty challenge (Twitter Engineering Insights)]]></title>
+        <id>https://blog.twitter.com/engineering/en_us/topics/insights/2021/learnings-from-the-first-algorithmic-bias-bounty-challenge</id>
+        <link href="https://blog.twitter.com/engineering/en_us/topics/insights/2021/learnings-from-the-first-algorithmic-bias-bounty-challenge"/>
+        <updated>2021-09-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Sharing learnings from the first algorithmic bias bounty challenge]]></content>
+    </entry>
+</feed>

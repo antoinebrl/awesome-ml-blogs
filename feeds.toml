@@ -1,9 +1,0 @@
-[twitter-engineering]
-title = "Twitter Engineering Insights"
-url = "https://blog.twitter.com/engineering/en_us/topics/insights"
-entrySelector = ".result"
-titleSelector = "a"
-linkSelector = "a"
-contentSelector = "a"
-dateSelector = "time"
-dateFormat = "EEEE, d MMMM yyyy"
