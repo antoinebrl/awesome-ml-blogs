@@ -2,224 +2,224 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://machinelearning.apple.com/research?type=article</id>
     <title>Apple Machine Learning</title>
-    <updated>2022-04-28T16:58:01.039Z</updated>
+    <updated>2022-04-29T08:46:08.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://machinelearning.apple.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Modeling the Impact of User Mobility on COVID-19 Infection Rates Over Time]]></title>
         <id>https://machinelearning.apple.com/research/modeling-covid-mobility</id>
         <link href="https://machinelearning.apple.com/research/modeling-covid-mobility"/>
-        <updated>2022-04-28T16:57:45.626Z</updated>
+        <updated>2022-04-29T08:45:57.015Z</updated>
         <content type="html"><![CDATA[Modeling the Impact of User Mobility on COVID-19 Infection Rates Over Time]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Interpretable Adaptive Optimization]]></title>
         <id>https://machinelearning.apple.com/research/interpretable-adaptive-optimization</id>
         <link href="https://machinelearning.apple.com/research/interpretable-adaptive-optimization"/>
-        <updated>2022-04-28T16:57:45.628Z</updated>
+        <updated>2022-04-29T08:45:57.030Z</updated>
         <content type="html"><![CDATA[Interpretable Adaptive Optimization]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[On-device Panoptic Segmentation for Camera Using Transformers]]></title>
         <id>https://machinelearning.apple.com/research/panoptic-segmentation</id>
         <link href="https://machinelearning.apple.com/research/panoptic-segmentation"/>
-        <updated>2022-04-28T16:57:45.629Z</updated>
+        <updated>2022-04-29T08:45:57.033Z</updated>
         <content type="html"><![CDATA[On-device Panoptic Segmentation for Camera Using Transformers]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Improving Neural Network Subspaces]]></title>
         <id>https://machinelearning.apple.com/research/improving-neural-subspaces</id>
         <link href="https://machinelearning.apple.com/research/improving-neural-subspaces"/>
-        <updated>2022-04-28T16:57:45.630Z</updated>
+        <updated>2022-04-29T08:45:57.033Z</updated>
         <content type="html"><![CDATA[Improving Neural Network Subspaces]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Learning to Generate Radiance Fields of Indoor Scenes]]></title>
         <id>https://machinelearning.apple.com/research/learning-to-generate-radiance-fields</id>
         <link href="https://machinelearning.apple.com/research/learning-to-generate-radiance-fields"/>
-        <updated>2022-04-28T16:57:45.640Z</updated>
+        <updated>2022-04-29T08:45:57.033Z</updated>
         <content type="html"><![CDATA[Learning to Generate Radiance Fields of Indoor Scenes]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Recognizing People in Photos Through Private On-Device Machine Learning]]></title>
         <id>https://machinelearning.apple.com/research/recognizing-people-photos</id>
         <link href="https://machinelearning.apple.com/research/recognizing-people-photos"/>
-        <updated>2022-04-28T16:57:45.641Z</updated>
+        <updated>2022-04-29T08:45:57.038Z</updated>
         <content type="html"><![CDATA[Recognizing People in Photos Through Private On-Device Machine Learning]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Making Mobile Applications Accessible with Machine Learning]]></title>
         <id>https://machinelearning.apple.com/research/mobile-applications-accessible</id>
         <link href="https://machinelearning.apple.com/research/mobile-applications-accessible"/>
-        <updated>2022-04-28T16:57:45.643Z</updated>
+        <updated>2022-04-29T08:45:57.038Z</updated>
         <content type="html"><![CDATA[Making Mobile Applications Accessible with Machine Learning]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Language Identification from Very Short Strings]]></title>
         <id>https://machinelearning.apple.com/research/language-identification-from-very-short-strings</id>
         <link href="https://machinelearning.apple.com/research/language-identification-from-very-short-strings"/>
-        <updated>2022-04-28T16:57:45.643Z</updated>
+        <updated>2022-04-29T08:45:57.039Z</updated>
         <content type="html"><![CDATA[Language Identification from Very&nbsp;Short&nbsp;Strings]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bridging the Domain Gap for Neural Models]]></title>
         <id>https://machinelearning.apple.com/research/bridging-the-domain-gap-for-neural-models</id>
         <link href="https://machinelearning.apple.com/research/bridging-the-domain-gap-for-neural-models"/>
-        <updated>2022-04-28T16:57:45.643Z</updated>
+        <updated>2022-04-29T08:45:57.039Z</updated>
         <content type="html"><![CDATA[Bridging the Domain Gap for Neural&nbsp;Models]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Optimizing Siri on HomePod in Far‑Field Settings]]></title>
         <id>https://machinelearning.apple.com/research/optimizing-siri-on-homepod-in-far-field-settings</id>
         <link href="https://machinelearning.apple.com/research/optimizing-siri-on-homepod-in-far-field-settings"/>
-        <updated>2022-04-28T16:57:45.646Z</updated>
+        <updated>2022-04-29T08:45:57.040Z</updated>
         <content type="html"><![CDATA[Optimizing Siri on HomePod in Far‑Field Settings]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Modeling the Impact of User Mobility on COVID-19 Infection Rates Over Time]]></title>
         <id>https://machinelearning.apple.com/research/modeling-covid-mobility</id>
         <link href="https://machinelearning.apple.com/research/modeling-covid-mobility"/>
-        <updated>2022-04-28T16:57:45.647Z</updated>
+        <updated>2022-04-29T08:45:57.043Z</updated>
         <content type="html"><![CDATA[Modeling the Impact of User Mobility on COVID-19 Infection Rates Over Time]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Interpretable Adaptive Optimization]]></title>
         <id>https://machinelearning.apple.com/research/interpretable-adaptive-optimization</id>
         <link href="https://machinelearning.apple.com/research/interpretable-adaptive-optimization"/>
-        <updated>2022-04-28T16:57:45.647Z</updated>
+        <updated>2022-04-29T08:45:57.045Z</updated>
         <content type="html"><![CDATA[Interpretable Adaptive Optimization]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[On-device Panoptic Segmentation for Camera Using Transformers]]></title>
         <id>https://machinelearning.apple.com/research/panoptic-segmentation</id>
         <link href="https://machinelearning.apple.com/research/panoptic-segmentation"/>
-        <updated>2022-04-28T16:57:45.647Z</updated>
+        <updated>2022-04-29T08:45:57.054Z</updated>
         <content type="html"><![CDATA[On-device Panoptic Segmentation for Camera Using Transformers]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Improving Neural Network Subspaces]]></title>
         <id>https://machinelearning.apple.com/research/improving-neural-subspaces</id>
         <link href="https://machinelearning.apple.com/research/improving-neural-subspaces"/>
-        <updated>2022-04-28T16:57:45.648Z</updated>
+        <updated>2022-04-29T08:45:57.054Z</updated>
         <content type="html"><![CDATA[Improving Neural Network Subspaces]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Learning to Generate Radiance Fields of Indoor Scenes]]></title>
         <id>https://machinelearning.apple.com/research/learning-to-generate-radiance-fields</id>
         <link href="https://machinelearning.apple.com/research/learning-to-generate-radiance-fields"/>
-        <updated>2022-04-28T16:57:45.651Z</updated>
+        <updated>2022-04-29T08:45:57.055Z</updated>
         <content type="html"><![CDATA[Learning to Generate Radiance Fields of Indoor Scenes]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Recognizing People in Photos Through Private On-Device Machine Learning]]></title>
         <id>https://machinelearning.apple.com/research/recognizing-people-photos</id>
         <link href="https://machinelearning.apple.com/research/recognizing-people-photos"/>
-        <updated>2022-04-28T16:57:45.652Z</updated>
+        <updated>2022-04-29T08:45:57.056Z</updated>
         <content type="html"><![CDATA[Recognizing People in Photos Through Private On-Device Machine Learning]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Making Mobile Applications Accessible with Machine Learning]]></title>
         <id>https://machinelearning.apple.com/research/mobile-applications-accessible</id>
         <link href="https://machinelearning.apple.com/research/mobile-applications-accessible"/>
-        <updated>2022-04-28T16:57:45.653Z</updated>
+        <updated>2022-04-29T08:45:57.060Z</updated>
         <content type="html"><![CDATA[Making Mobile Applications Accessible with Machine Learning]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Language Identification from Very Short Strings]]></title>
         <id>https://machinelearning.apple.com/research/language-identification-from-very-short-strings</id>
         <link href="https://machinelearning.apple.com/research/language-identification-from-very-short-strings"/>
-        <updated>2022-04-28T16:57:45.654Z</updated>
+        <updated>2022-04-29T08:45:57.061Z</updated>
         <content type="html"><![CDATA[Language Identification from Very&nbsp;Short&nbsp;Strings]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bridging the Domain Gap for Neural Models]]></title>
         <id>https://machinelearning.apple.com/research/bridging-the-domain-gap-for-neural-models</id>
         <link href="https://machinelearning.apple.com/research/bridging-the-domain-gap-for-neural-models"/>
-        <updated>2022-04-28T16:57:45.656Z</updated>
+        <updated>2022-04-29T08:45:57.062Z</updated>
         <content type="html"><![CDATA[Bridging the Domain Gap for Neural&nbsp;Models]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Optimizing Siri on HomePod in Far‑Field Settings]]></title>
         <id>https://machinelearning.apple.com/research/optimizing-siri-on-homepod-in-far-field-settings</id>
         <link href="https://machinelearning.apple.com/research/optimizing-siri-on-homepod-in-far-field-settings"/>
-        <updated>2022-04-28T16:57:45.657Z</updated>
+        <updated>2022-04-29T08:45:57.063Z</updated>
         <content type="html"><![CDATA[Optimizing Siri on HomePod in Far‑Field Settings]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Can Global Semantic Context Improve Neural Language Models?]]></title>
         <id>https://machinelearning.apple.com/research/can-global-semantic-context-improve-neural-language-models</id>
         <link href="https://machinelearning.apple.com/research/can-global-semantic-context-improve-neural-language-models"/>
-        <updated>2022-04-28T16:57:45.658Z</updated>
+        <updated>2022-04-29T08:45:57.064Z</updated>
         <content type="html"><![CDATA[Can Global Semantic Context Improve Neural Language Models?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Finding Local Destinations with Siri’s Regionally Specific Language Models for Speech Recognition]]></title>
         <id>https://machinelearning.apple.com/research/regionally-specific-language-models</id>
         <link href="https://machinelearning.apple.com/research/regionally-specific-language-models"/>
-        <updated>2022-04-28T16:57:45.659Z</updated>
+        <updated>2022-04-29T08:45:57.065Z</updated>
         <content type="html"><![CDATA[Finding Local Destinations with Siri’s Regionally Specific Language Models for Speech Recognition]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Personalized Hey Siri]]></title>
         <id>https://machinelearning.apple.com/research/personalized-hey-siri</id>
         <link href="https://machinelearning.apple.com/research/personalized-hey-siri"/>
-        <updated>2022-04-28T16:57:45.660Z</updated>
+        <updated>2022-04-29T08:45:57.065Z</updated>
         <content type="html"><![CDATA[Personalized Hey Siri]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Learning with Privacy at Scale]]></title>
         <id>https://machinelearning.apple.com/research/learning-with-privacy-at-scale</id>
         <link href="https://machinelearning.apple.com/research/learning-with-privacy-at-scale"/>
-        <updated>2022-04-28T16:57:45.661Z</updated>
+        <updated>2022-04-29T08:45:57.066Z</updated>
         <content type="html"><![CDATA[Learning with Privacy at Scale]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[An On-device Deep Neural Network for Face Detection]]></title>
         <id>https://machinelearning.apple.com/research/face-detection</id>
         <link href="https://machinelearning.apple.com/research/face-detection"/>
-        <updated>2022-04-28T16:57:45.662Z</updated>
+        <updated>2022-04-29T08:45:57.067Z</updated>
         <content type="html"><![CDATA[An On-device Deep Neural Network for Face Detection]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hey Siri: An On-device DNN-powered Voice Trigger for Apple’s Personal Assistant]]></title>
         <id>https://machinelearning.apple.com/research/hey-siri</id>
         <link href="https://machinelearning.apple.com/research/hey-siri"/>
-        <updated>2022-04-28T16:57:45.663Z</updated>
+        <updated>2022-04-29T08:45:57.068Z</updated>
         <content type="html"><![CDATA[Hey Siri: An On-device DNN-powered Voice Trigger for Apple’s Personal Assistant]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Real-Time Recognition of Handwritten Chinese Characters Spanning a Large Inventory of 30,000 Characters]]></title>
         <id>https://machinelearning.apple.com/research/handwriting</id>
         <link href="https://machinelearning.apple.com/research/handwriting"/>
-        <updated>2022-04-28T16:57:45.664Z</updated>
+        <updated>2022-04-29T08:45:57.068Z</updated>
         <content type="html"><![CDATA[Real-Time Recognition of Handwritten Chinese Characters Spanning a Large Inventory of 30,000 Characters]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Deep Learning for Siri’s Voice: On-device Deep Mixture Density Networks for Hybrid Unit Selection Synthesis]]></title>
         <id>https://machinelearning.apple.com/research/siri-voices</id>
         <link href="https://machinelearning.apple.com/research/siri-voices"/>
-        <updated>2022-04-28T16:57:45.666Z</updated>
+        <updated>2022-04-29T08:45:57.074Z</updated>
         <content type="html"><![CDATA[Deep Learning for Siri’s Voice: On-device Deep Mixture Density Networks for Hybrid Unit Selection Synthesis]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Inverse Text Normalization as a Labeling Problem]]></title>
         <id>https://machinelearning.apple.com/research/inverse-text-normal</id>
         <link href="https://machinelearning.apple.com/research/inverse-text-normal"/>
-        <updated>2022-04-28T16:57:45.668Z</updated>
+        <updated>2022-04-29T08:45:57.074Z</updated>
         <content type="html"><![CDATA[Inverse Text Normalization as a Labeling Problem]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Improving Neural Network Acoustic Models by Cross-bandwidth and Cross-lingual Initialization]]></title>
         <id>https://machinelearning.apple.com/research/cross-initialization</id>
         <link href="https://machinelearning.apple.com/research/cross-initialization"/>
-        <updated>2022-04-28T16:57:45.669Z</updated>
+        <updated>2022-04-29T08:45:57.074Z</updated>
         <content type="html"><![CDATA[Improving Neural Network Acoustic Models by Cross-bandwidth and Cross-lingual Initialization]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Improving the Realism of Synthetic Images]]></title>
         <id>https://machinelearning.apple.com/research/gan</id>
         <link href="https://machinelearning.apple.com/research/gan"/>
-        <updated>2022-04-28T16:57:45.670Z</updated>
+        <updated>2022-04-29T08:45:57.074Z</updated>
         <content type="html"><![CDATA[Improving the Realism of Synthetic Images]]></content>
     </entry>
 </feed>
