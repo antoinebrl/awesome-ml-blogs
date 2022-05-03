@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.twitter.com/engineering/en_us/topics/insights</id>
     <title>Twitter Engineering Insights</title>
-    <updated>2022-05-03T08:45:10.788Z</updated>
+    <updated>2022-05-03T17:05:37.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://blog.twitter.com/etc/designs/blog-twitter/public/img/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Understanding Twitter Conversations: A Wordle Case Study]]></title>
+        <id>https://blog.twitter.com/engineering/en_us/topics/insights/2022/understanding-twitter-conversations--a-wordle-case-study</id>
+        <link href="https://blog.twitter.com/engineering/en_us/topics/insights/2022/understanding-twitter-conversations--a-wordle-case-study"/>
+        <updated>2022-05-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Understanding Twitter Conversations: A Wordle Case Study]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Graph machine learning with missing node features]]></title>
         <id>https://blog.twitter.com/engineering/en_us/topics/insights/2022/graph-machine-learning-with-missing-node-features</id>
@@ -67,12 +74,5 @@
         <link href="https://blog.twitter.com/engineering/en_us/topics/insights/2021/how-we-rolled-out-security-keys-at-twitter"/>
         <updated>2021-10-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[How we rolled out security keys at Twitter]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sharing learnings from the first algorithmic bias bounty challenge]]></title>
-        <id>https://blog.twitter.com/engineering/en_us/topics/insights/2021/learnings-from-the-first-algorithmic-bias-bounty-challenge</id>
-        <link href="https://blog.twitter.com/engineering/en_us/topics/insights/2021/learnings-from-the-first-algorithmic-bias-bounty-challenge"/>
-        <updated>2021-09-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[Sharing learnings from the first algorithmic bias bounty challenge]]></content>
     </entry>
 </feed>
