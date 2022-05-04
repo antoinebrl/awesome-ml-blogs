@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.twitter.com/engineering/en_us/topics/insights</id>
     <title>Twitter Engineering Insights</title>
-    <updated>2022-05-03T17:05:37.400Z</updated>
+    <updated>2022-05-04T08:46:06.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://blog.twitter.com/etc/designs/blog-twitter/public/img/favicon-32x32.png</icon>
     <entry>
-        <title type="html"><![CDATA[Understanding Twitter Conversations: A Wordle Case Study]]></title>
+        <title type="html"><![CDATA[Understanding Twitter conversations: A Wordle case study]]></title>
         <id>https://blog.twitter.com/engineering/en_us/topics/insights/2022/understanding-twitter-conversations--a-wordle-case-study</id>
         <link href="https://blog.twitter.com/engineering/en_us/topics/insights/2022/understanding-twitter-conversations--a-wordle-case-study"/>
         <updated>2022-05-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[Understanding Twitter Conversations: A Wordle Case Study]]></content>
+        <content type="html"><![CDATA[Understanding Twitter conversations: A Wordle case study]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Graph machine learning with missing node features]]></title>
