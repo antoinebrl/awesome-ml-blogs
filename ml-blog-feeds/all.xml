@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://antoinebrl.github.io/awesome-ml-blogs/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-11T08:48:37.516Z</updated>
+    <updated>2022-05-11T17:09:41.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Understanding Twitter conversations: A Wordle case study (Twitter Engineering Insights)]]></title>
@@ -78,217 +78,217 @@
         <title type="html"><![CDATA[Modeling the Impact of User Mobility on COVID-19 Infection Rates Over Time (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/modeling-covid-mobility</id>
         <link href="https://machinelearning.apple.com/research/modeling-covid-mobility"/>
-        <updated>2022-05-11T08:48:25.010Z</updated>
+        <updated>2022-05-11T17:09:32.475Z</updated>
         <content type="html"><![CDATA[Modeling the Impact of User Mobility on COVID-19 Infection Rates Over Time]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Interpretable Adaptive Optimization (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/interpretable-adaptive-optimization</id>
         <link href="https://machinelearning.apple.com/research/interpretable-adaptive-optimization"/>
-        <updated>2022-05-11T08:48:25.023Z</updated>
+        <updated>2022-05-11T17:09:32.476Z</updated>
         <content type="html"><![CDATA[Interpretable Adaptive Optimization]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[On-device Panoptic Segmentation for Camera Using Transformers (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/panoptic-segmentation</id>
         <link href="https://machinelearning.apple.com/research/panoptic-segmentation"/>
-        <updated>2022-05-11T08:48:25.023Z</updated>
+        <updated>2022-05-11T17:09:32.479Z</updated>
         <content type="html"><![CDATA[On-device Panoptic Segmentation for Camera Using Transformers]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Improving Neural Network Subspaces (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/improving-neural-subspaces</id>
         <link href="https://machinelearning.apple.com/research/improving-neural-subspaces"/>
-        <updated>2022-05-11T08:48:25.023Z</updated>
+        <updated>2022-05-11T17:09:32.480Z</updated>
         <content type="html"><![CDATA[Improving Neural Network Subspaces]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Learning to Generate Radiance Fields of Indoor Scenes (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/learning-to-generate-radiance-fields</id>
         <link href="https://machinelearning.apple.com/research/learning-to-generate-radiance-fields"/>
-        <updated>2022-05-11T08:48:25.030Z</updated>
+        <updated>2022-05-11T17:09:32.486Z</updated>
         <content type="html"><![CDATA[Learning to Generate Radiance Fields of Indoor Scenes]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Recognizing People in Photos Through Private On-Device Machine Learning (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/recognizing-people-photos</id>
         <link href="https://machinelearning.apple.com/research/recognizing-people-photos"/>
-        <updated>2022-05-11T08:48:25.030Z</updated>
+        <updated>2022-05-11T17:09:32.491Z</updated>
         <content type="html"><![CDATA[Recognizing People in Photos Through Private On-Device Machine Learning]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Making Mobile Applications Accessible with Machine Learning (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/mobile-applications-accessible</id>
         <link href="https://machinelearning.apple.com/research/mobile-applications-accessible"/>
-        <updated>2022-05-11T08:48:25.033Z</updated>
+        <updated>2022-05-11T17:09:32.491Z</updated>
         <content type="html"><![CDATA[Making Mobile Applications Accessible with Machine Learning]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Language Identification from Very Short Strings (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/language-identification-from-very-short-strings</id>
         <link href="https://machinelearning.apple.com/research/language-identification-from-very-short-strings"/>
-        <updated>2022-05-11T08:48:25.035Z</updated>
+        <updated>2022-05-11T17:09:32.493Z</updated>
         <content type="html"><![CDATA[Language Identification from Very&nbsp;Short&nbsp;Strings]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bridging the Domain Gap for Neural Models (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/bridging-the-domain-gap-for-neural-models</id>
         <link href="https://machinelearning.apple.com/research/bridging-the-domain-gap-for-neural-models"/>
-        <updated>2022-05-11T08:48:25.036Z</updated>
+        <updated>2022-05-11T17:09:32.493Z</updated>
         <content type="html"><![CDATA[Bridging the Domain Gap for Neural&nbsp;Models]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Optimizing Siri on HomePod in Far‑Field Settings (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/optimizing-siri-on-homepod-in-far-field-settings</id>
         <link href="https://machinelearning.apple.com/research/optimizing-siri-on-homepod-in-far-field-settings"/>
-        <updated>2022-05-11T08:48:25.038Z</updated>
+        <updated>2022-05-11T17:09:32.496Z</updated>
         <content type="html"><![CDATA[Optimizing Siri on HomePod in Far‑Field Settings]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Modeling the Impact of User Mobility on COVID-19 Infection Rates Over Time (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/modeling-covid-mobility</id>
         <link href="https://machinelearning.apple.com/research/modeling-covid-mobility"/>
-        <updated>2022-05-11T08:48:25.039Z</updated>
+        <updated>2022-05-11T17:09:32.496Z</updated>
         <content type="html"><![CDATA[Modeling the Impact of User Mobility on COVID-19 Infection Rates Over Time]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Interpretable Adaptive Optimization (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/interpretable-adaptive-optimization</id>
         <link href="https://machinelearning.apple.com/research/interpretable-adaptive-optimization"/>
-        <updated>2022-05-11T08:48:25.041Z</updated>
+        <updated>2022-05-11T17:09:32.497Z</updated>
         <content type="html"><![CDATA[Interpretable Adaptive Optimization]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[On-device Panoptic Segmentation for Camera Using Transformers (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/panoptic-segmentation</id>
         <link href="https://machinelearning.apple.com/research/panoptic-segmentation"/>
-        <updated>2022-05-11T08:48:25.058Z</updated>
+        <updated>2022-05-11T17:09:32.497Z</updated>
         <content type="html"><![CDATA[On-device Panoptic Segmentation for Camera Using Transformers]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Improving Neural Network Subspaces (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/improving-neural-subspaces</id>
         <link href="https://machinelearning.apple.com/research/improving-neural-subspaces"/>
-        <updated>2022-05-11T08:48:25.062Z</updated>
+        <updated>2022-05-11T17:09:32.498Z</updated>
         <content type="html"><![CDATA[Improving Neural Network Subspaces]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Learning to Generate Radiance Fields of Indoor Scenes (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/learning-to-generate-radiance-fields</id>
         <link href="https://machinelearning.apple.com/research/learning-to-generate-radiance-fields"/>
-        <updated>2022-05-11T08:48:25.063Z</updated>
+        <updated>2022-05-11T17:09:32.499Z</updated>
         <content type="html"><![CDATA[Learning to Generate Radiance Fields of Indoor Scenes]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Recognizing People in Photos Through Private On-Device Machine Learning (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/recognizing-people-photos</id>
         <link href="https://machinelearning.apple.com/research/recognizing-people-photos"/>
-        <updated>2022-05-11T08:48:25.064Z</updated>
+        <updated>2022-05-11T17:09:32.501Z</updated>
         <content type="html"><![CDATA[Recognizing People in Photos Through Private On-Device Machine Learning]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Making Mobile Applications Accessible with Machine Learning (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/mobile-applications-accessible</id>
         <link href="https://machinelearning.apple.com/research/mobile-applications-accessible"/>
-        <updated>2022-05-11T08:48:25.065Z</updated>
+        <updated>2022-05-11T17:09:32.506Z</updated>
         <content type="html"><![CDATA[Making Mobile Applications Accessible with Machine Learning]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Language Identification from Very Short Strings (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/language-identification-from-very-short-strings</id>
         <link href="https://machinelearning.apple.com/research/language-identification-from-very-short-strings"/>
-        <updated>2022-05-11T08:48:25.066Z</updated>
+        <updated>2022-05-11T17:09:32.507Z</updated>
         <content type="html"><![CDATA[Language Identification from Very&nbsp;Short&nbsp;Strings]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bridging the Domain Gap for Neural Models (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/bridging-the-domain-gap-for-neural-models</id>
         <link href="https://machinelearning.apple.com/research/bridging-the-domain-gap-for-neural-models"/>
-        <updated>2022-05-11T08:48:25.067Z</updated>
+        <updated>2022-05-11T17:09:32.508Z</updated>
         <content type="html"><![CDATA[Bridging the Domain Gap for Neural&nbsp;Models]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Optimizing Siri on HomePod in Far‑Field Settings (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/optimizing-siri-on-homepod-in-far-field-settings</id>
         <link href="https://machinelearning.apple.com/research/optimizing-siri-on-homepod-in-far-field-settings"/>
-        <updated>2022-05-11T08:48:25.068Z</updated>
+        <updated>2022-05-11T17:09:32.512Z</updated>
         <content type="html"><![CDATA[Optimizing Siri on HomePod in Far‑Field Settings]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Can Global Semantic Context Improve Neural Language Models? (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/can-global-semantic-context-improve-neural-language-models</id>
         <link href="https://machinelearning.apple.com/research/can-global-semantic-context-improve-neural-language-models"/>
-        <updated>2022-05-11T08:48:25.070Z</updated>
+        <updated>2022-05-11T17:09:32.512Z</updated>
         <content type="html"><![CDATA[Can Global Semantic Context Improve Neural Language Models?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Finding Local Destinations with Siri’s Regionally Specific Language Models for Speech Recognition (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/regionally-specific-language-models</id>
         <link href="https://machinelearning.apple.com/research/regionally-specific-language-models"/>
-        <updated>2022-05-11T08:48:25.073Z</updated>
+        <updated>2022-05-11T17:09:32.513Z</updated>
         <content type="html"><![CDATA[Finding Local Destinations with Siri’s Regionally Specific Language Models for Speech Recognition]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Personalized Hey Siri (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/personalized-hey-siri</id>
         <link href="https://machinelearning.apple.com/research/personalized-hey-siri"/>
-        <updated>2022-05-11T08:48:25.080Z</updated>
+        <updated>2022-05-11T17:09:32.514Z</updated>
         <content type="html"><![CDATA[Personalized Hey Siri]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Learning with Privacy at Scale (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/learning-with-privacy-at-scale</id>
         <link href="https://machinelearning.apple.com/research/learning-with-privacy-at-scale"/>
-        <updated>2022-05-11T08:48:25.080Z</updated>
+        <updated>2022-05-11T17:09:32.516Z</updated>
         <content type="html"><![CDATA[Learning with Privacy at Scale]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[An On-device Deep Neural Network for Face Detection (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/face-detection</id>
         <link href="https://machinelearning.apple.com/research/face-detection"/>
-        <updated>2022-05-11T08:48:25.080Z</updated>
+        <updated>2022-05-11T17:09:32.517Z</updated>
         <content type="html"><![CDATA[An On-device Deep Neural Network for Face Detection]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hey Siri: An On-device DNN-powered Voice Trigger for Apple’s Personal Assistant (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/hey-siri</id>
         <link href="https://machinelearning.apple.com/research/hey-siri"/>
-        <updated>2022-05-11T08:48:25.080Z</updated>
+        <updated>2022-05-11T17:09:32.519Z</updated>
         <content type="html"><![CDATA[Hey Siri: An On-device DNN-powered Voice Trigger for Apple’s Personal Assistant]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Real-Time Recognition of Handwritten Chinese Characters Spanning a Large Inventory of 30,000 Characters (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/handwriting</id>
         <link href="https://machinelearning.apple.com/research/handwriting"/>
-        <updated>2022-05-11T08:48:25.081Z</updated>
+        <updated>2022-05-11T17:09:32.520Z</updated>
         <content type="html"><![CDATA[Real-Time Recognition of Handwritten Chinese Characters Spanning a Large Inventory of 30,000 Characters]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Deep Learning for Siri’s Voice: On-device Deep Mixture Density Networks for Hybrid Unit Selection Synthesis (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/siri-voices</id>
         <link href="https://machinelearning.apple.com/research/siri-voices"/>
-        <updated>2022-05-11T08:48:25.084Z</updated>
+        <updated>2022-05-11T17:09:32.521Z</updated>
         <content type="html"><![CDATA[Deep Learning for Siri’s Voice: On-device Deep Mixture Density Networks for Hybrid Unit Selection Synthesis]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Inverse Text Normalization as a Labeling Problem (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/inverse-text-normal</id>
         <link href="https://machinelearning.apple.com/research/inverse-text-normal"/>
-        <updated>2022-05-11T08:48:25.086Z</updated>
+        <updated>2022-05-11T17:09:32.522Z</updated>
         <content type="html"><![CDATA[Inverse Text Normalization as a Labeling Problem]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Improving Neural Network Acoustic Models by Cross-bandwidth and Cross-lingual Initialization (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/cross-initialization</id>
         <link href="https://machinelearning.apple.com/research/cross-initialization"/>
-        <updated>2022-05-11T08:48:25.087Z</updated>
+        <updated>2022-05-11T17:09:32.523Z</updated>
         <content type="html"><![CDATA[Improving Neural Network Acoustic Models by Cross-bandwidth and Cross-lingual Initialization]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Improving the Realism of Synthetic Images (Apple Machine Learning)]]></title>
         <id>https://machinelearning.apple.com/research/gan</id>
         <link href="https://machinelearning.apple.com/research/gan"/>
-        <updated>2022-05-11T08:48:25.090Z</updated>
+        <updated>2022-05-11T17:09:32.524Z</updated>
         <content type="html"><![CDATA[Improving the Realism of Synthetic Images]]></content>
     </entry>
     <entry>
@@ -379,7 +379,7 @@
         <title type="html"><![CDATA[undefined (Unity Blog AI)]]></title>
         <id>https://antoinebrl.github.io/awesome-ml-blogs/all.xml</id>
         <link href="https://antoinebrl.github.io/awesome-ml-blogs/all.xml"/>
-        <updated>2022-05-11T08:48:29.937Z</updated>
+        <updated>2022-05-11T17:09:35.933Z</updated>
         <content type="html"><![CDATA[<div class="col-start-1 col-span-7"><div class="mb-2 lg:mr-1 text-gray"><ul><li class="text-white text-base font-medium mb-2">Navigation</li><li><ul class="flex flex-row content-start flex-wrap"><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/news">News</a></li><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/technology">Technology</a></li><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/community">Community</a></li><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/games">Games</a></li><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/manufacturing">Manufacturing</a></li><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/aec">AEC</a></li><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/entertainment">Entertainment</a></li></ul></li></ul></div><div class="mb-2 lg:mt-6 lg:mr-1 text-gray"><ul><li class="text-white text-base font-medium mb-2">Language</li><li><ul class="flex flex-row content-start flex-wrap"><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/topic/ai">English</a></li><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/cn/topic/ai">中文</a></li><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/de/topic/ai">Deutsch</a></li><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/es/topic/ai">Español</a></li><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/ja/topic/ai">日本語</a></li><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/ru/topic/ai">Русский</a></li><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/fr/topic/ai">Français</a></li><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/kr/topic/ai">한국어</a></li><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/pt/topic/ai">Português</a></li></ul></li></ul></div></div><div class="col-start-8 col-span-3"><div class="mb-2 text-gray"><ul><li class="text-white text-base font-medium mb-2">More</li><li><ul class="flex flex-row content-start flex-wrap"><li class="mr-3 sm:mr-4"><a id="" class="component-footer-nav__link text-gray hover:text-blue-light cursor-pointer" href="/reading-list" aria-label="reading list">Reading lists</a></li><li class="mr-3 sm:mr-4"><a id="" class="component-footer-nav__link text-gray hover:text-blue-light cursor-pointer" href="/rss-feeds" aria-label="rss feeds">RSS feeds</a></li></ul></li></ul></div></div><div class="col-start-11 col-span-2"><div class="mb-2 text-gray"><ul><li class="text-white text-base font-medium mb-3">Social</li><li class="flex flex-row content-start flex-wrap space-x-3 lg:space-x-4 items-center"><a class="component-footer-nav__link" href="https://www.youtube.com/user/Unity3D" aria-label="youtube icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="20" viewBox="0 0 16 20" class="fill-current text-gray hover:text-blue-light" fill="#757575"><path fill-rule="evenodd" d="M2.122.667h1.152l.79 2.961.733-2.961H5.96L4.628 5.07v3.005H3.483V5.071L2.122.667zm5.275 1.898c-.895 0-1.489.592-1.489 1.468v2.68c0 .963.503 1.464 1.489 1.464.817 0 1.46-.546 1.46-1.465V4.033c0-.855-.637-1.468-1.46-1.468zm-.001 4.619c.274 0 .426-.22.426-.517V4.123c0-.305-.134-.52-.446-.52-.286 0-.423.221-.423.52v2.544c0 .287.162.517.443.517zm4.209-4.573V6.76c-.124.155-.4.41-.598.41-.217 0-.27-.15-.27-.369v-4.19H9.72v4.568c0 .54.165.976.71.976.307 0 .734-.16 1.174-.683v.604h1.016V2.61h-1.016zm1.33 11.697c0-.359.074-.61.432-.61.349 0 .423.257.423.609v.528h-.856v-.527zm-3.33-.579a.742.742 0 00-.2.159v3.244c.079.084.155.145.23.183.157.08.387.085.495-.054.056-.073.084-.193.084-.359v-2.687c0-.176-.035-.309-.104-.4-.117-.155-.336-.171-.505-.086zM2.534 9.573c2.08-.141 8.85-.141 10.932 0 2.254.154 2.517 1.52 2.534 5.094-.017 3.579-.282 4.94-2.534 5.094-2.083.141-8.852.141-10.932 0C.28 19.607.017 18.24 0 14.666c.017-3.58.282-4.94 2.534-5.094zm1.072 8.549h-1.09V12.09H1.39v-1.024h3.345v1.024H3.606v6.032zm2.91 0h.967v-5.205h-.968v3.951c-.117.148-.38.39-.569.39-.207 0-.257-.14-.257-.35v-3.99h-.967v4.35c0 1.056.716 1.063 1.237.764.193-.11.379-.272.557-.484v.574zm4.694-1.078c0 .644-.241 1.144-.885 1.144-.355 0-.65-.13-.92-.466v.4H8.43v-7.056h.977v2.272c.218-.266.515-.486.86-.486.71 0 .944.599.944 1.304v2.888zm1.725-1.402h1.85v-1.325c0-.94-.447-1.531-1.376-1.531-.873 0-1.47.628-1.47 1.531v2.337c0 .937.473 1.61 1.397 1.61 1.02 0 1.45-.608 1.45-1.61v-.391h-.996v.361c0 .453-.024.728-.432.728-.39 0-.423-.337-.423-.728v-.982z" clip-rule="evenodd"></path><mask id="youtube" width="16" height="20" x="0" y="0" maskUnits="userSpaceOnUse"><path fill-rule="evenodd" d="M2.122.667h1.152l.79 2.961.733-2.961H5.96L4.628 5.07v3.005H3.483V5.071L2.122.667zm5.275 1.898c-.895 0-1.489.592-1.489 1.468v2.68c0 .963.503 1.464 1.489 1.464.817 0 1.46-.546 1.46-1.465V4.033c0-.855-.637-1.468-1.46-1.468zm-.001 4.619c.274 0 .426-.22.426-.517V4.123c0-.305-.134-.52-.446-.52-.286 0-.423.221-.423.52v2.544c0 .287.162.517.443.517zm4.209-4.573V6.76c-.124.155-.4.41-.598.41-.217 0-.27-.15-.27-.369v-4.19H9.72v4.568c0 .54.165.976.71.976.307 0 .734-.16 1.174-.683v.604h1.016V2.61h-1.016zm1.33 11.697c0-.359.074-.61.432-.61.349 0 .423.257.423.609v.528h-.856v-.527zm-3.33-.579a.742.742 0 00-.2.159v3.244c.079.084.155.145.23.183.157.08.387.085.495-.054.056-.073.084-.193.084-.359v-2.687c0-.176-.035-.309-.104-.4-.117-.155-.336-.171-.505-.086zM2.534 9.573c2.08-.141 8.85-.141 10.932 0 2.254.154 2.517 1.52 2.534 5.094-.017 3.579-.282 4.94-2.534 5.094-2.083.141-8.852.141-10.932 0C.28 19.607.017 18.24 0 14.666c.017-3.58.282-4.94 2.534-5.094zm1.072 8.549h-1.09V12.09H1.39v-1.024h3.345v1.024H3.606v6.032zm2.91 0h.967v-5.205h-.968v3.951c-.117.148-.38.39-.569.39-.207 0-.257-.14-.257-.35v-3.99h-.967v4.35c0 1.056.716 1.063 1.237.764.193-.11.379-.272.557-.484v.574zm4.694-1.078c0 .644-.241 1.144-.885 1.144-.355 0-.65-.13-.92-.466v.4H8.43v-7.056h.977v2.272c.218-.266.515-.486.86-.486.71 0 .944.599.944 1.304v2.888zm1.725-1.402h1.85v-1.325c0-.94-.447-1.531-1.376-1.531-.873 0-1.47.628-1.47 1.531v2.337c0 .937.473 1.61 1.397 1.61 1.02 0 1.45-.608 1.45-1.61v-.391h-.996v.361c0 .453-.024.728-.432.728-.39 0-.423-.337-.423-.728v-.982z" clip-rule="evenodd"></path></mask><g mask="url(#youtube)"><path d="M-8 -6H24V26H-8z"></path></g></svg></a><a class="component-footer-nav__link" href="https://www.linkedin.com/company/unity-technologies/" aria-label="linkedin icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18" width="18" height="18" fill="#C2C2C2" class="fill-current text-gray hover:text-blue-light"><path d="M3.735 2.625C3.735 3.66075 2.9025 4.5 1.875 4.5C0.8475 4.5 0.015 3.66075 0.015 2.625C0.015 1.59 0.8475 0.75 1.875 0.75C2.9025 0.75 3.735 1.59 3.735 2.625ZM3.75 6H0V18H3.75V6ZM9.7365 6H6.0105V18H9.73725V11.7008C9.73725 8.19825 14.259 7.91175 14.259 11.7008V18H18V10.4018C18 4.49175 11.3085 4.707 9.7365 7.61625V6Z"></path></svg></a><a class="component-footer-nav__link" href="https://twitter.com/unity3d" aria-label="twitter icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 16" width="18" height="16" fill="#C2C2C2" class="fill-current text-gray hover:text-blue-light"><path d="M18 2.23175C17.3377 2.52575 16.626 2.72375 15.879 2.813C16.6417 2.35625 17.2275 1.6325 17.5027 0.77C16.7895 1.193 15.999 1.5005 15.1575 1.66625C14.4847 0.9485 13.524 0.5 12.462 0.5C10.0777 0.5 8.32575 2.7245 8.86425 5.03375C5.796 4.88 3.075 3.41 1.25325 1.17575C0.28575 2.8355 0.7515 5.00675 2.3955 6.10625C1.791 6.08675 1.221 5.921 0.72375 5.64425C0.68325 7.355 1.9095 8.9555 3.6855 9.31175C3.16575 9.45275 2.5965 9.48575 2.0175 9.37475C2.487 10.8417 3.8505 11.909 5.4675 11.939C3.915 13.1562 1.959 13.7 0 13.469C1.63425 14.5168 3.576 15.128 5.661 15.128C12.5175 15.128 16.3912 9.33725 16.1572 4.1435C16.8787 3.62225 17.505 2.972 18 2.23175Z"></path></svg></a><a class="component-footer-nav__link" href="https://www.facebook.com/unity3d" aria-label="facebook icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 18" width="16" height="18" fill="#C2C2C2" class="fill-current text-gray hover:text-blue-light"><path d="M2.75 6H0.5V9H2.75V18H6.5V9H9.2315L9.5 6H6.5V4.74975C6.5 4.0335 6.644 3.75 7.33625 3.75H9.5V0H6.644C3.947 0 2.75 1.18725 2.75 3.46125V6Z"></path></svg></a></li></ul></div></div>]]></content>
     </entry>
     <entry>
@@ -470,7 +470,7 @@
         <title type="html"><![CDATA[undefined (Unity Blog ML)]]></title>
         <id>https://antoinebrl.github.io/awesome-ml-blogs/all.xml</id>
         <link href="https://antoinebrl.github.io/awesome-ml-blogs/all.xml"/>
-        <updated>2022-05-11T08:48:36.257Z</updated>
+        <updated>2022-05-11T17:09:40.895Z</updated>
         <content type="html"><![CDATA[<div class="col-start-1 col-span-7"><div class="mb-2 lg:mr-1 text-gray"><ul><li class="text-white text-base font-medium mb-2">Navigation</li><li><ul class="flex flex-row content-start flex-wrap"><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/news">News</a></li><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/technology">Technology</a></li><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/community">Community</a></li><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/games">Games</a></li><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/manufacturing">Manufacturing</a></li><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/aec">AEC</a></li><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/entertainment">Entertainment</a></li></ul></li></ul></div><div class="mb-2 lg:mt-6 lg:mr-1 text-gray"><ul><li class="text-white text-base font-medium mb-2">Language</li><li><ul class="flex flex-row content-start flex-wrap"><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/topic/machine-learning">English</a></li><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/cn/topic/machine-learning">中文</a></li><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/de/topic/machine-learning">Deutsch</a></li><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/es/topic/machine-learning">Español</a></li><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/ja/topic/machine-learning">日本語</a></li><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/ru/topic/machine-learning">Русский</a></li><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/fr/topic/machine-learning">Français</a></li><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/kr/topic/machine-learning">한국어</a></li><li class="mr-4 hover:text-blue-light"><a class="component-footer-nav__link" href="/pt/topic/machine-learning">Português</a></li></ul></li></ul></div></div><div class="col-start-8 col-span-3"><div class="mb-2 text-gray"><ul><li class="text-white text-base font-medium mb-2">More</li><li><ul class="flex flex-row content-start flex-wrap"><li class="mr-3 sm:mr-4"><a id="" class="component-footer-nav__link text-gray hover:text-blue-light cursor-pointer" href="/reading-list" aria-label="reading list">Reading lists</a></li><li class="mr-3 sm:mr-4"><a id="" class="component-footer-nav__link text-gray hover:text-blue-light cursor-pointer" href="/rss-feeds" aria-label="rss feeds">RSS feeds</a></li></ul></li></ul></div></div><div class="col-start-11 col-span-2"><div class="mb-2 text-gray"><ul><li class="text-white text-base font-medium mb-3">Social</li><li class="flex flex-row content-start flex-wrap space-x-3 lg:space-x-4 items-center"><a class="component-footer-nav__link" href="https://www.youtube.com/user/Unity3D" aria-label="youtube icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="20" viewBox="0 0 16 20" class="fill-current text-gray hover:text-blue-light" fill="#757575"><path fill-rule="evenodd" d="M2.122.667h1.152l.79 2.961.733-2.961H5.96L4.628 5.07v3.005H3.483V5.071L2.122.667zm5.275 1.898c-.895 0-1.489.592-1.489 1.468v2.68c0 .963.503 1.464 1.489 1.464.817 0 1.46-.546 1.46-1.465V4.033c0-.855-.637-1.468-1.46-1.468zm-.001 4.619c.274 0 .426-.22.426-.517V4.123c0-.305-.134-.52-.446-.52-.286 0-.423.221-.423.52v2.544c0 .287.162.517.443.517zm4.209-4.573V6.76c-.124.155-.4.41-.598.41-.217 0-.27-.15-.27-.369v-4.19H9.72v4.568c0 .54.165.976.71.976.307 0 .734-.16 1.174-.683v.604h1.016V2.61h-1.016zm1.33 11.697c0-.359.074-.61.432-.61.349 0 .423.257.423.609v.528h-.856v-.527zm-3.33-.579a.742.742 0 00-.2.159v3.244c.079.084.155.145.23.183.157.08.387.085.495-.054.056-.073.084-.193.084-.359v-2.687c0-.176-.035-.309-.104-.4-.117-.155-.336-.171-.505-.086zM2.534 9.573c2.08-.141 8.85-.141 10.932 0 2.254.154 2.517 1.52 2.534 5.094-.017 3.579-.282 4.94-2.534 5.094-2.083.141-8.852.141-10.932 0C.28 19.607.017 18.24 0 14.666c.017-3.58.282-4.94 2.534-5.094zm1.072 8.549h-1.09V12.09H1.39v-1.024h3.345v1.024H3.606v6.032zm2.91 0h.967v-5.205h-.968v3.951c-.117.148-.38.39-.569.39-.207 0-.257-.14-.257-.35v-3.99h-.967v4.35c0 1.056.716 1.063 1.237.764.193-.11.379-.272.557-.484v.574zm4.694-1.078c0 .644-.241 1.144-.885 1.144-.355 0-.65-.13-.92-.466v.4H8.43v-7.056h.977v2.272c.218-.266.515-.486.86-.486.71 0 .944.599.944 1.304v2.888zm1.725-1.402h1.85v-1.325c0-.94-.447-1.531-1.376-1.531-.873 0-1.47.628-1.47 1.531v2.337c0 .937.473 1.61 1.397 1.61 1.02 0 1.45-.608 1.45-1.61v-.391h-.996v.361c0 .453-.024.728-.432.728-.39 0-.423-.337-.423-.728v-.982z" clip-rule="evenodd"></path><mask id="youtube" width="16" height="20" x="0" y="0" maskUnits="userSpaceOnUse"><path fill-rule="evenodd" d="M2.122.667h1.152l.79 2.961.733-2.961H5.96L4.628 5.07v3.005H3.483V5.071L2.122.667zm5.275 1.898c-.895 0-1.489.592-1.489 1.468v2.68c0 .963.503 1.464 1.489 1.464.817 0 1.46-.546 1.46-1.465V4.033c0-.855-.637-1.468-1.46-1.468zm-.001 4.619c.274 0 .426-.22.426-.517V4.123c0-.305-.134-.52-.446-.52-.286 0-.423.221-.423.52v2.544c0 .287.162.517.443.517zm4.209-4.573V6.76c-.124.155-.4.41-.598.41-.217 0-.27-.15-.27-.369v-4.19H9.72v4.568c0 .54.165.976.71.976.307 0 .734-.16 1.174-.683v.604h1.016V2.61h-1.016zm1.33 11.697c0-.359.074-.61.432-.61.349 0 .423.257.423.609v.528h-.856v-.527zm-3.33-.579a.742.742 0 00-.2.159v3.244c.079.084.155.145.23.183.157.08.387.085.495-.054.056-.073.084-.193.084-.359v-2.687c0-.176-.035-.309-.104-.4-.117-.155-.336-.171-.505-.086zM2.534 9.573c2.08-.141 8.85-.141 10.932 0 2.254.154 2.517 1.52 2.534 5.094-.017 3.579-.282 4.94-2.534 5.094-2.083.141-8.852.141-10.932 0C.28 19.607.017 18.24 0 14.666c.017-3.58.282-4.94 2.534-5.094zm1.072 8.549h-1.09V12.09H1.39v-1.024h3.345v1.024H3.606v6.032zm2.91 0h.967v-5.205h-.968v3.951c-.117.148-.38.39-.569.39-.207 0-.257-.14-.257-.35v-3.99h-.967v4.35c0 1.056.716 1.063 1.237.764.193-.11.379-.272.557-.484v.574zm4.694-1.078c0 .644-.241 1.144-.885 1.144-.355 0-.65-.13-.92-.466v.4H8.43v-7.056h.977v2.272c.218-.266.515-.486.86-.486.71 0 .944.599.944 1.304v2.888zm1.725-1.402h1.85v-1.325c0-.94-.447-1.531-1.376-1.531-.873 0-1.47.628-1.47 1.531v2.337c0 .937.473 1.61 1.397 1.61 1.02 0 1.45-.608 1.45-1.61v-.391h-.996v.361c0 .453-.024.728-.432.728-.39 0-.423-.337-.423-.728v-.982z" clip-rule="evenodd"></path></mask><g mask="url(#youtube)"><path d="M-8 -6H24V26H-8z"></path></g></svg></a><a class="component-footer-nav__link" href="https://www.linkedin.com/company/unity-technologies/" aria-label="linkedin icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18" width="18" height="18" fill="#C2C2C2" class="fill-current text-gray hover:text-blue-light"><path d="M3.735 2.625C3.735 3.66075 2.9025 4.5 1.875 4.5C0.8475 4.5 0.015 3.66075 0.015 2.625C0.015 1.59 0.8475 0.75 1.875 0.75C2.9025 0.75 3.735 1.59 3.735 2.625ZM3.75 6H0V18H3.75V6ZM9.7365 6H6.0105V18H9.73725V11.7008C9.73725 8.19825 14.259 7.91175 14.259 11.7008V18H18V10.4018C18 4.49175 11.3085 4.707 9.7365 7.61625V6Z"></path></svg></a><a class="component-footer-nav__link" href="https://twitter.com/unity3d" aria-label="twitter icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 16" width="18" height="16" fill="#C2C2C2" class="fill-current text-gray hover:text-blue-light"><path d="M18 2.23175C17.3377 2.52575 16.626 2.72375 15.879 2.813C16.6417 2.35625 17.2275 1.6325 17.5027 0.77C16.7895 1.193 15.999 1.5005 15.1575 1.66625C14.4847 0.9485 13.524 0.5 12.462 0.5C10.0777 0.5 8.32575 2.7245 8.86425 5.03375C5.796 4.88 3.075 3.41 1.25325 1.17575C0.28575 2.8355 0.7515 5.00675 2.3955 6.10625C1.791 6.08675 1.221 5.921 0.72375 5.64425C0.68325 7.355 1.9095 8.9555 3.6855 9.31175C3.16575 9.45275 2.5965 9.48575 2.0175 9.37475C2.487 10.8417 3.8505 11.909 5.4675 11.939C3.915 13.1562 1.959 13.7 0 13.469C1.63425 14.5168 3.576 15.128 5.661 15.128C12.5175 15.128 16.3912 9.33725 16.1572 4.1435C16.8787 3.62225 17.505 2.972 18 2.23175Z"></path></svg></a><a class="component-footer-nav__link" href="https://www.facebook.com/unity3d" aria-label="facebook icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 18" width="16" height="18" fill="#C2C2C2" class="fill-current text-gray hover:text-blue-light"><path d="M2.75 6H0.5V9H2.75V18H6.5V9H9.2315L9.5 6H6.5V4.74975C6.5 4.0335 6.644 3.75 7.33625 3.75H9.5V0H6.644C3.947 0 2.75 1.18725 2.75 3.46125V6Z"></path></svg></a></li></ul></div></div>]]></content>
     </entry>
 </feed>
