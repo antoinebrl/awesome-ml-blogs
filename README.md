@@ -50,6 +50,7 @@ you want more practical tutorials? In both cases, these are the site to keep an 
 - [Sicara Blog](https://www.sicara.fr/blog)
 - [Clarifai blog](https://www.clarifai.com/blog)
 - [Paperspace Blog](https://blog.paperspace.com/)
+- [MosaicML Blog](https://www.mosaicml.com/blog)
 
 
 ## Data Labelling and Curation Platforms
