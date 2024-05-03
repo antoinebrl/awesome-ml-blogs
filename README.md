@@ -122,6 +122,7 @@ you want more practical tutorials? In both cases, these are the site to keep an 
 - [Sander Dieleman](https://benanne.github.io/)
 - [Jeremy Jordan](https://www.jeremyjordan.me/)
 - [George Ho](https://www.georgeho.org/blog/)
+- [Pedro Leitao](https://pedro-leitao.github.io/)
 
 
 ## Synthetic Data
