@@ -8,12 +8,11 @@ you want more practical tutorials? In both cases, these are the site to keep an 
 ## Big Corps - Research
 
 - [DeepMind Blog](https://deepmind.com/blog)
-- [OpenAI Blog](https://openai.com/blog/tags/research/)
+- [OpenAI Blog](https://openai.com/news/research/)
 - [Google AI Blog](https://ai.googleblog.com/)
 - [Meta/Facebook AI Blog](https://ai.facebook.com/blog/)
 - [Microsoft Research Blog](https://www.microsoft.com/en-us/research/blog/)
 - [Machine Learning Research at Apple](https://machinelearning.apple.com/research?type=article)
-- [Twitter Engineering](https://blog.twitter.com/engineering/en_us/topics/insights)
 - [Amazon Science Blog](https://www.amazon.science/blog?f0=0000016e-2fb1-d205-a5ef-afb9d52c0000&f0=0000016e-2ff0-da81-a5ef-3ff057f10000&f0=0000016e-2ff1-d205-a5ef-aff9651e0000)
 - [OpenMined Blog](https://blog.openmined.org/)
 
@@ -22,14 +21,12 @@ you want more practical tutorials? In both cases, these are the site to keep an 
 
 - [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
 - [NVIDIA - Deep Learning Blog](https://blogs.nvidia.com/blog/category/deep-learning/)
-- [Unity Blog on Machine Learning](https://blog.unity.com/topic/machine-learning) and [AI](https://blog.unity.com/topic/ai)
 - [Spotify Engineering](https://engineering.atspotify.com/)
 - [Netflix TechBlog on Machine Learning](https://netflixtechblog.com/)
 - [Uber Engineering](https://eng.uber.com/category/articles/ai/)
 - [Lyft Engineering](https://eng.lyft.com/)
 - [Intel AI Blog](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/bg-p/blog-ai)
 - [AirBnB Engineering, AI & ML](https://medium.com/airbnb-engineering/ai/home)
-- [DoorDash](https://doordash.engineering/category/data-science-and-machine-learning/)
 - [Google Technology](https://blog.google/technology/ai/)
 
 
@@ -61,7 +58,7 @@ you want more practical tutorials? In both cases, these are the site to keep an 
 - [SuperAnnotate Blog](https://blog.superannotate.com/)
 - [Sama Blog](https://www.sama.com/blog)
 - [Playment Blog](https://www.playment.io/blog)
-- [Cord.tech Blog](https://cord.tech/blog)
+- [Encord Blog](https://encord.com/blog/)
 - [Dataloop Blog](https://dataloop.ai/blog/)
 - [Superb AI blog](https://www.superb-ai.com/blog)
 - [annotell Blog](https://www.annotell.com/articles)
@@ -71,13 +68,13 @@ you want more practical tutorials? In both cases, these are the site to keep an 
 - [LabelBox Blog](https://labelbox.com/blog/)
 - [Understand.ai Blog](https://understand.ai/)
 - [Lightly.ai Blog](https://www.lightly.ai/blog)
-- [Alectio Blog](http://alectio.com/blog/)
 - [Aquarium Learning Blog](https://medium.com/aquarium-learning)
 - [Siasearch Blog](https://www.siasearch.io/)
 - [Humanloop blog](https://humanloop.com/blog)
 
 
 ## Vector Databases
+
 - [Milvius Engineering](https://milvus.io/blog?#engineering)
 - [Vespa Blog](https://blog.vespa.ai/)
 
