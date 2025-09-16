@@ -12,6 +12,8 @@ you want more practical tutorials? In both cases, these are the site to keep an 
 - [Google AI Blog](https://ai.googleblog.com/)
 - [Meta/Facebook AI Blog](https://ai.facebook.com/blog/)
 - [Microsoft Research Blog](https://www.microsoft.com/en-us/research/blog/)
+- [Thinking Machines Lab](https://thinkingmachines.ai/blog/)
+- 
 - [Machine Learning Research at Apple](https://machinelearning.apple.com/research?type=article)
 - [Amazon Science Blog](https://www.amazon.science/blog?f0=0000016e-2fb1-d205-a5ef-afb9d52c0000&f0=0000016e-2ff0-da81-a5ef-3ff057f10000&f0=0000016e-2ff1-d205-a5ef-aff9651e0000)
 - [OpenMined Blog](https://blog.openmined.org/)
@@ -120,10 +122,11 @@ you want more practical tutorials? In both cases, these are the site to keep an 
 - [Jeremy Jordan](https://www.jeremyjordan.me/)
 - [George Ho](https://www.georgeho.org/blog/)
 - [Paul Bridger](https://paulbridger.com/)
-
+- [Louis Faury - CruxPonent](https://cruxponent.com/)
 
 ## Synthetic Data
 
+- [World Labs Blog](https://thinkingmachines.ai/blog/)
 - [parallel domain Blog](https://paralleldomain.com/blog/)
 - [Anyverse Blog](https://anyverse.ai/blog/)
 - [Datagen Blog](https://www.datagen.tech/blog/)
